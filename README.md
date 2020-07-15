@@ -6,6 +6,9 @@ For indoor environments, planes are predominant features that are less affected 
 
 ### Related Publications:
 For more details, please read our paper [Point-Plane SLAM Using Supposed Planes for Indoor Environments](https://www.mdpi.com/1424-8220/19/17/3795)
+A Chinese article introducing this work: https://zhuanlan.zhihu.com/p/143204294
+If you have some questions to discuss, you could contact me by e-mail (zhang_xy@buaa.edu.cn) or zhihu (https://www.zhihu.com/people/fishmarch) for fast reply.
+
 
 If you use SP-SLAM in an academic work, please cite:
 
