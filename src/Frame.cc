@@ -870,7 +870,7 @@ void Frame::ComputePlanesFromPointCloud(const cv::Mat &imDepth) {
         }
         inputCloud->height = ceil(imDepth.rows/float(cloudDis));
         inputCloud->width = ceil(imDepth.cols/float(cloudDis));
-
+//尝试降采样降低计算量
 
         //估计法线
         pcl::IntegralImageNormalEstimation<PointT, pcl::Normal> ne;
